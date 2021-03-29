@@ -1,4 +1,4 @@
-# Color(Green) all Call(s) in flow type.
+# Color(Green) all Call(s) in Listing Window.
 # https://ghidra.re/ghidra_docs/api/ghidra/program/model/symbol/FlowType.html#isCall()
 # @author : Harshil Patel
 # @category : Tools

@@ -1,4 +1,4 @@
-# Color(Red) all Jump(s) in flow type.
+# Color(Red) all Jump(s) in Listing Window.
 # https://ghidra.re/ghidra_docs/api/ghidra/program/model/symbol/FlowType.html#isJump()
 # @author : Harshil Patel
 # @category : Tools
